@@ -32,8 +32,6 @@ You can easily adjust:
 - Company branding (logos, colors, tagline)
 - Additional elements like social media icons or banners
 
-If you want to include social media links, simply add `<a>` tags with inline-styled icons or images.
-
 ## Author
 
 Raphael Fernando  
